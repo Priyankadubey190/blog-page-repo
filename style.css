@@ -1,0 +1,36 @@
+.header{
+    background-color: rgb(40, 40, 134);
+}
+.header a{
+    font-size: 25px;
+    color: white;
+    text-decoration: none;
+    padding: 10px 60px;
+}
+.nav{
+    text-align: center;
+}
+article{
+    float: left;
+}
+img{
+    width: 450px;
+    margin: 50px 28px;
+}
+.clear-fix{
+    overflow:auto;
+}
+.footer{
+    background-color: rgb(40, 40, 134);
+    text-align: center;
+    height: 100px;
+}
+.footer a{
+    font-size: 25px;
+    color: white;
+    text-decoration: none;
+    padding: 60px 60px; 
+}
+.nav2{
+    padding: 30px 60px; 
+}
